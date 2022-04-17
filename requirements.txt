@@ -1,0 +1,4 @@
+tqdm~=4.64.0
+requests~=2.27.1
+pathlib~=1.0.1
+xmltodict~=0.12.0
